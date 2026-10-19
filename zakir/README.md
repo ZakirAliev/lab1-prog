@@ -1,0 +1,3 @@
+# Modern Programming Languages - Laboratory Assignment
+
+In this lab, I explored how the exact same data can be processed using different programming paradigms. For Task 1, I used a traditional imperative approach with loops and standard conditional checks to manage the data flow and handle employee salaries. For Task 2, I switched to a functional style by avoiding loops entirely and utilizing pure functions alongside built-in tools like `map`, `filter`, and `reduce`. Finally, Task 3 demonstrates how to build and use higher-order functions by writing a custom selection mechanism that accepts both lambda expressions and named callbacks.
